@@ -49,3 +49,13 @@ Após instalar os pacotes e configurar o ambiente, execute o script:
 ## Gráficos de treinamento
 Estes gráficos fazem a correlação de anos de expericia e salário, divididos em treinamento e teste. 
 
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; text-align: center;">
+    <h4>Gráfico de Treinamento</h4>
+    <img src="train.png" alt="Gráfico de Treinamento" style="width: 90%;"/>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <h4>Gráfico de Teste</h4>
+    <img src="test.png" alt="Gráfico de Teste" style="width: 90%;"/>
+  </div>
+</div>
